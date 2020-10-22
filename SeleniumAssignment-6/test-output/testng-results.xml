@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22745" started-at="2020-10-22T18:35:07Z" finished-at="2020-10-22T18:35:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22745" started-at="2020-10-22T18:35:07Z" finished-at="2020-10-22T18:35:30Z">
+      <class name="Data">
+        <test-method status="PASS" signature="f(java.lang.String)[pri:0, instance:Data@c5e30fe2]" name="f" duration-ms="8196" started-at="2020-10-22T18:35:07Z" data-provider="dp" finished-at="2020-10-22T18:35:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Selenium]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String)[pri:0, instance:Data@c5e30fe2]" name="f" duration-ms="7628" started-at="2020-10-22T18:35:15Z" data-provider="dp" finished-at="2020-10-22T18:35:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Java]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String)[pri:0, instance:Data@c5e30fe2]" name="f" duration-ms="6880" started-at="2020-10-22T18:35:23Z" data-provider="dp" finished-at="2020-10-22T18:35:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rest Assured]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- Data -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
